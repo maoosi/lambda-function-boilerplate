@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "@types/node": "*",
+        "babel-loader": "*",
+        "typescript": "*",
+        "tsconfig-paths": "*",
+        "ts-loader": "*",
+        "webpack": "*",
+        "webpack-cli": "*"
+    },
+    "dependencies": {
+        "aws-sdk": "*"
+    }
+}
